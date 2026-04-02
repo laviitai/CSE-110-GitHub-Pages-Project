@@ -1,9 +1,9 @@
-#Itai's User Page:
+# Itai's User Page:
 
-##About Me:
+## About Me:
 Hi! I'm Itai, a bioinformatics major and CSE minor at UCSD interested in AI, medicine, and building innovating med-tech tools. Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/ilavi/)!
  
-**My Hobbies**: I love to surf (to see photos of me surfing, navigate to [my vacation photos](#pictures-from-these-trips)), hike, *play and watch* basketball
+**My Hobbies**: I love to surf, hike, *play and watch* basketball. (to see photos of me surfing, navigate to [my vacation photos](#pictures-from-Panama))
 
 Here is a quote from my favorite artist Mac Miller:
  >Enjoy the best things in your life 'cause you ain't gonna get to live it twice.
@@ -24,11 +24,8 @@ Here is a quote from my favorite artist Mac Miller:
 - Iceland
 - Portugal
 
-### Pictures from these trips:
-![San Fransico](images/SF.jpg)
+#### Picture from Panama:
 ![Panama](images/Panama.jpg)
-![Iceland](images/Iceland.jpg)
-![Portugal](images/Portugal.jpg)
 
 ### Task List - Vacation Spots I want to go to:
 - [x] Iceland
