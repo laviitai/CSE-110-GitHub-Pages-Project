@@ -3,7 +3,7 @@
 ## About Me:
 Hi! I'm Itai, a bioinformatics major and CSE minor at UCSD interested in AI, medicine, and building innovating med-tech tools. Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/ilavi/)!
  
-**My Hobbies**: I love to surf, hike, *play and watch* basketball. (to see photos of me surfing, navigate to [my vacation photos](####pictures-from-panama))
+**My Hobbies**: I love to surf, hike, *play and watch* basketball. (to see photos of me surfing, navigate to [my vacation photos](####picture-from-panama))
 
 Here is a quote from my favorite artist Mac Miller:
  >Enjoy the best things in your life 'cause you ain't gonna get to live it twice.
