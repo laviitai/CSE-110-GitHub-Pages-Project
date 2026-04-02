@@ -8,6 +8,7 @@ Hi! I'm Itai, a bioinformatics major and CSE minor at UCSD interested in AI, med
 Here is a quote from my favorite artist Mac Miller:
  >Enjoy the best things in your life 'cause you ain't gonna get to live it twice.
 ---
+
 ## Markdown Utilities
 
 ### Code Block:
